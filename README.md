@@ -1,6 +1,6 @@
 📦 Drug Detection Object Detector
 Final Workshop Assignment – Build, Compare, and Deploy Your Own Object Detector
-#📌 Project Overview
+📌 Project Overview
 
 This project focuses on training, evaluating, and comparing three versions of YOLOv8 object detection models on a custom Drug Detection dataset.
 
@@ -133,7 +133,7 @@ model.val()
 Run inference:
 
 model.predict(source="image.jpg", show=True)
-#🎯 Conclusion
+🎯 Conclusion
 
 This project demonstrates that:
 
